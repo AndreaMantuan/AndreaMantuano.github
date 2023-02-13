@@ -1,6 +1,6 @@
 # AndreaMantuano.github
 
-# ejemplo de pagina webHOLA MUNDO
+# Ejemplo de pagina  WEB Hola mundo
 # imagen 
 ![Texto alternativo](/ruta/a/la/imagen.jpg)
 
